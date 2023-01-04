@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+cout<<"salam"<<endl;
 
 int main(){
     
